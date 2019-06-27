@@ -1,0 +1,14 @@
+.header{
+  background-color: $jelly-bean;
+  padding: 100px;
+  text-align: center;
+}
+
+.header__tittle{
+  font-size: $large;
+}
+
+.header__tittle--bold{
+  font-size: $large;
+  font-weight: $bold;
+}

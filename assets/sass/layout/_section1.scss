@@ -1,0 +1,22 @@
+.section1{
+  background-color: $taupe-gray;
+  padding: 90px;
+  text-align: center;
+}
+
+.section1__image{
+  width: 80%;
+}
+
+.section1__tittle{
+  font-size: $medium;
+  font-weight: $bold;
+}
+
+.section1__text{
+  font-size: $regular;
+  text-align: left;
+  color:$white;
+  width: 50%;
+  margin: 0 auto;
+}

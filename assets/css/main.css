@@ -1,0 +1,160 @@
+body {
+  height: 100vh;
+  background-color: #fff;
+  font-family: "Raleway", sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+h1 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 200;
+  font-size: 50px;
+  color: #fff;
+}
+
+.nav {
+  padding-top: 1rem;
+  padding-left: 2rem;
+  padding-bottom: 1rem;
+}
+
+.nav__log {
+  width: 120px;
+}
+
+.header {
+  background-color: #E56353;
+  padding: 100px;
+  text-align: center;
+}
+
+.header__tittle {
+  font-size: 50px;
+}
+
+.header__tittle--bold {
+  font-size: 50px;
+  font-weight: 700;
+}
+
+.section1 {
+  background-color: #91918D;
+  padding: 90px;
+  text-align: center;
+}
+
+.section1__image {
+  width: 80%;
+}
+
+.section1__tittle {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.section1__text {
+  font-size: 400;
+  text-align: left;
+  color: #fff;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.section2 {
+  background-color: #fff;
+  padding: 100px;
+  text-align: center;
+}
+
+.section2__image2 {
+  width: 80%;
+}
+
+.section2__tittle {
+  font-weight: 700;
+  color: #686963;
+  font-size: 18px;
+}
+
+.section2__text {
+  font-size: 400;
+  text-align: left;
+  color: #686963;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.mainsection {
+  text-align: center;
+}
+
+.mainsection__header {
+  background-color: #E56353;
+  padding: 50px 0;
+  margin-bottom: 30px;
+}
+
+.mainsection__us {
+  font-size: 70px;
+  font-weight: 700;
+}
+
+.mainsection__image {
+  width: 25vw;
+  margin: 30px;
+}
+
+.mainsection__tittle {
+  font-size: 18px;
+  color: #686963;
+}
+
+.mainsection__text {
+  font-size: 400;
+  text-align: left;
+  color: #686963;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.form {
+  background-color: #E56353;
+  text-align: center;
+  padding: 50px;
+  margin-top: 3rem;
+}
+
+.form__tittle {
+  font-size: 50px;
+  font-weight: 18px;
+  color: #fff;
+}
+
+.form__button {
+  font-size: 18px;
+  font-weight: 700;
+  color: #686963;
+  border-radius: 20px;
+  background-color: #fff;
+  padding: 5px 50px;
+  border: 0;
+}
+
+.footer {
+  background-color: #686963;
+  text-align: center;
+}
+
+.footer__image {
+  width: 100px;
+  padding: 2rem;
+}
+
+/*# sourceMappingURL=main.css.map */

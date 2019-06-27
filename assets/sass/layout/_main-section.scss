@@ -1,0 +1,32 @@
+.mainsection{
+  text-align: center;
+}
+
+.mainsection__header{
+  background-color: $jelly-bean;
+  padding: 50px 0;
+  margin-bottom: 30px;
+}
+
+.mainsection__us{
+  font-size: $x-large;
+  font-weight: $bold;
+}
+
+.mainsection__image{
+  width: 25vw;
+  margin: 30px;
+}
+
+.mainsection__tittle{
+  font-size: $medium;
+  color: $granite-gray;
+}
+
+.mainsection__text{
+  font-size: $regular;
+  text-align: left;
+  color:$granite-gray;
+  width: 50%;
+  margin: 0 auto;
+}

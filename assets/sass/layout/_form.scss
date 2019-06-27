@@ -1,0 +1,22 @@
+.form{
+  background-color: $jelly-bean;
+  text-align: center;
+  padding: 50px;
+  margin-top: 3rem;
+}
+
+.form__tittle{
+  font-size: $large;
+  font-weight: $medium;
+  color: $white;
+}
+
+.form__button{
+  font-size: $medium;
+  font-weight: $bold;
+  color:$granite-gray;
+  border-radius: 20px;
+  background-color: $white;
+  padding: 5px 50px;
+  border: 0;
+}
